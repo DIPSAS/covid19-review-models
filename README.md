@@ -1,2 +1,2 @@
-# covid19-review-models
-Repository for gjennomgang av arketyper og templater  for Covid-19 fra arketyper.no
+# COVID-19 Model Review
+This is a repository for the review of the national clinical models for Covid-19 
